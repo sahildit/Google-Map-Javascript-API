@@ -6,7 +6,7 @@ A Simple Project to learn more about Google Maps API
 
 ## Step-1-GET API KEY 🗝️
 
-API Dashboard - https://console.cloud.google.com/apis/dashboard?project=inductive-seat-307100&folder=&organizationId=Google Maps JavaScript Tutorial
+API Dashboard - https://console.cloud.google.com/apis/dashboard?project=inductive-seat-307100&folder=&organizationId=Google 
 
 
 Google Maps Javasript Tutorial - https://developers.google.com/maps/documentation/javascript/overview
