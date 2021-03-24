@@ -7,7 +7,11 @@ A Simple Project to learn more about Google Maps API
 ## Step-1-GET API KEY 🗝️
 
 API Dashboard - https://console.cloud.google.com/apis/dashboard?project=inductive-seat-307100&folder=&organizationId=Google Maps JavaScript Tutorial
+
+
 Google Maps Javasript Tutorial - https://developers.google.com/maps/documentation/javascript/overview
+
+
 Get API Key - https://developers.google.com/maps/documentation/javascript/get-api-key
 
 ## Step-2 Create Project 📁
